@@ -1,0 +1,16 @@
+body, html {
+   height: 100%;
+   margin:0;
+   font-family:  "helvetica", sans-serif;
+   line-height: 180%;
+   color: #696969;
+   text-align: center;
+   background-color: #E7FBFB;
+}
+
+.head{
+  font-size: 4em;
+  text-align: center;
+  color: #010B5B;
+  background-color: 
+}
